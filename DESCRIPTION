@@ -1,6 +1,6 @@
 Package: unsurv
 Title: Unsupervised Clustering of Individualized Survival Curves
-Version: 0.7.0
+Version: 0.7.2
 Authors@R: c(
     person("Imad", "El Badisy", email = "elbadisyimad@gmail.com", role = c("aut", "cre")))
 Author: Imad El Badisy [aut, cre]
@@ -19,11 +19,10 @@ Encoding: UTF-8
 RoxygenNote: 7.3.3
 Depends: R (>= 4.1.0)
 Imports: stats, cluster, ggplot2
-Suggests: tidyr, dplyr, scales, survival, testthat (>= 3.0.0), knitr,
-        rmarkdown
+Suggests: scales, survival, testthat (>= 3.0.0), knitr, rmarkdown
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2026-08-31 21:42:28 UTC; imad-el-badisy
+Packaged: 2026-09-17 08:04:08 UTC; imad-el-badisy
 Repository: CRAN
-Date/Publication: 2026-08-31 22:30:02 UTC
+Date/Publication: 2026-09-17 10:10:02 UTC

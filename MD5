@@ -1,9 +1,9 @@
-8a5e93c2700584e970aee43386efef24 *DESCRIPTION
+adb50fe693d086596c1c5d8e75f377d9 *DESCRIPTION
 2cca48371e653c86e6178cbd434f44dd *LICENSE
 3e7838da24260f0f698ea0b6afd7bf5c *NAMESPACE
-f2409aad11a0ef29ce6b6923f1e5916d *NEWS.md
+fcfa177a716ebf0d1b758695a8da0653 *NEWS.md
 6a30ded730dde97db5ec66d9d657211e *R/compare.R
-3794a1034501971cc2ca38baca3602d1 *R/internals.R
+9489869cebcd7e15d0797c045c94d0db *R/internals.R
 353d5116fbd75211ed2e5b21b45a3315 *R/plot.R
 67102babd5185beacb389e0a47c1b349 *R/predict.unsurv.R
 1d7e3830e7d1f0665248cb863655a1ea *R/summaries.R
@@ -16,7 +16,7 @@ bb4a083e3262dc61bbc7eeca698ec5d2 *inst/CITATION
 2f8a5b087f39dcd2a2768c33748f258b *inst/WORDLIST
 c8d92ae71c53ef9c0a4a901130b4139d *inst/doc/unsurv-intro.R
 82a37563af1ccacfd3161d9777456333 *inst/doc/unsurv-intro.Rmd
-4f96086f96f77d2d5eabd30ac6cd6414 *inst/doc/unsurv-intro.html
+df6f25b6238c3c8d02dd10016e1d2e6d *inst/doc/unsurv-intro.html
 3441901b7a9032d520399f5271ab3f0e *inst/extdata/metabric_survdnn_curves.rds
 2e29d3757019213473234de08381ae69 *man/autoplot.unsurv.Rd
 544d13fadbd20432851b4f00f8e100c8 *man/autoplot.unsurv_compare.Rd
